@@ -12,17 +12,17 @@ Here you'll find my personal coding projects as I build & develop my skills. I a
     <img src="https://skillicons.dev/icons?i=github,ae,apple,css,react,discord,figma,html,ai,js,materialui,mysql,nextjs,nodejs,npm,ps,postgres,stackoverflow,supabase,vercel,vite" />
   </a>
 </p>
-
-Tech used constantly
+<br />
+Tech used constantly<br />
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=apple,gmail,stackoverflow,obsidian,npm,nodejs,linkedin,instagram,tailwind,css,js,html,react,twitter,vscode,codepen" />
   </a>
 </p>
-
+<br />
 
 <p align="center">
-  Design Packages I have used
+  Design Packages I have used<br />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,ps,xd,figma,ai" />
   </a>
@@ -30,7 +30,7 @@ Tech used constantly
 
 
 <p align="center">
-  Used in the past:
+  Used in the past:<br />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=sass,bootstrap,jquery,heroku,ember,ruby,sublime,atom,windows,wordpress,angular,atom,bitbucket," />
   </a>
@@ -39,7 +39,7 @@ Tech used constantly
 
 
 <p align="center">
-  Things I would love to explore:
+  Things I would love to explore:<br />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=robloxstudio," />
   </a>
