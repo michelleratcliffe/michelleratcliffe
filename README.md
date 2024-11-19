@@ -24,7 +24,8 @@ Here you'll find my personal coding projects as I build & develop my skills. I a
 <br />
 
 <p align="center">
-  Design Packages I have used<br />
+  Design Packages I have used
+  <br /> <br />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,ps,xd,figma,ai" />
   </a>
@@ -32,7 +33,8 @@ Here you'll find my personal coding projects as I build & develop my skills. I a
 
 
 <p align="center">
-  Used in the past:<br />
+  Used in the past:
+  <br /> <br />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=sass,bootstrap,jquery,heroku,ember,ruby,sublime,atom,windows,wordpress,angular,atom,bitbucket&perline=7" />
   </a>
@@ -41,7 +43,8 @@ Here you'll find my personal coding projects as I build & develop my skills. I a
 
 
 <p align="center">
-  Things I would love to explore:<br />
+  Things I would love to explore:
+  <br /> <br />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=robloxstudio," />
   </a>
