@@ -14,7 +14,6 @@
     <img src="https://skillicons.dev/icons?i=github,css,react,discord,figma,html,js,materialui,mysql,nextjs,nodejs,npm,postgres,stackoverflow,supabase,vercel,vite&perline=9" />
   </a>
 </p>
-<br />
 
 <p align="center">
   <h3>Tech used constantly</h3>
@@ -23,7 +22,6 @@
     <img src="https://skillicons.dev/icons?i=apple,gmail,stackoverflow,obsidian,npm,nodejs,linkedin,instagram,tailwind,css,js,html,react,twitter,vscode,codepen&perline=8" />
   </a>
 </p>
-<br />
 
 <p align="center">
  <h3> Design Packages I have used</h3>
@@ -40,8 +38,6 @@
     <img src="https://skillicons.dev/icons?i=sass,bootstrap,jquery,heroku,ember,ruby,sublime,atom,windows,wordpress,angular,atom,bitbucket&perline=7" />
   </a>
 </p>
-
-<br />
 
 <p align="center">
  <h3>Things I would love to explore:</h3> 
