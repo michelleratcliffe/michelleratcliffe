@@ -15,9 +15,10 @@ Here you'll find my personal coding projects as I build & develop my skills. I a
 <br />
 
 <p align="center">
-  Tech used constantly<br />
+  Tech used constantly
+  <br /> <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,gmail,stackoverflow,obsidian,npm,nodejs,linkedin,instagram,tailwind,css,js,html,react,twitter,vscode,codepen" />
+    <img src="https://skillicons.dev/icons?i=apple,gmail,stackoverflow,obsidian,npm,nodejs,linkedin,instagram,tailwind,css,js,html,react,twitter,vscode,codepen&perline=8" />
   </a>
 </p>
 <br />
