@@ -19,26 +19,27 @@ Tech used constantly
   </a>
 </p>
 
-DESIGN
+
 <p align="center">
+  Design Packages I have used
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,ps,xd,figma,ai" />
   </a>
 </p>
 
 
-things I would love to explore
-
 <p align="center">
+  Used in the past:
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=robloxstudio," />
+    <img src="https://skillicons.dev/icons?i=sass,bootstrap,jquery,heroku,ember,ruby,sublime,atom,windows,wordpress,angular,atom,bitbucket," />
   </a>
 </p>
 
-tech I have used in the past 
+
 
 <p align="center">
+  Things I would love to explore:
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sass,bootstrap,haml,ruby,sublime,atom,windows,wordpress,angular,atom,bitbucket," />
+    <img src="https://skillicons.dev/icons?i=robloxstudio," />
   </a>
 </p>
