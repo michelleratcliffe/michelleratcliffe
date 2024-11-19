@@ -30,7 +30,7 @@
 
   <br /> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,ps,xd,figma,ai" />
+    <img src="https://skillicons.dev/icons?i=ae,ps,xd,ai,figma" />
   </a>
 </p>
  <h3 align="center">Used in the past:</h3>
