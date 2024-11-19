@@ -34,7 +34,7 @@ Here you'll find my personal coding projects as I build & develop my skills. I a
 <p align="center">
   Used in the past:<br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sass,bootstrap,jquery,heroku,ember,ruby,sublime,atom,windows,wordpress,angular,atom,bitbucket," />
+    <img src="https://skillicons.dev/icons?i=sass,bootstrap,jquery,heroku,ember,ruby,sublime,atom,windows,wordpress,angular,atom,bitbucket&perline=7" />
   </a>
 </p>
 
