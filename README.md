@@ -1,3 +1,4 @@
+<body align="center">
 <h1>Hey, I’m Michelle. 👋</h1>
 
 <h2>I’m a Junior Frontend Developer with a keen interest in data, UX, AI, Marketing, SEO and all things digital and gaming!</h2>
@@ -7,7 +8,7 @@
 <h4>Here you'll find my personal coding projects as I build & develop my skills. I am currently obsessed with React and having a great time learning its ins and outs as well as my limitations so I can learn more. </h4>
 <br />
 <br />
-<p align="center">
+<p>
   <h3>Tech I love</h3>
   <br />
   <a href="https://skillicons.dev">
@@ -46,3 +47,4 @@
     <img src="https://skillicons.dev/icons?i=robloxstudio," />
   </a>
 </p>
+</body>
