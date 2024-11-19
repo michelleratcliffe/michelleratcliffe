@@ -10,7 +10,7 @@
 <br />
 
 <h3 align="center">Tech I love</h3>
-<p>
+<p align="center">
   <br />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,css,react,discord,figma,html,js,materialui,mysql,nextjs,nodejs,npm,postgres,stackoverflow,supabase,vercel,vite&perline=9" />
