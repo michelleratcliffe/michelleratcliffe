@@ -8,6 +8,6 @@ Here you'll find my personal coding projects as I build & develop my skills. I a
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=github,ae,apple,css,react, discord, figma" />
   </a>
 </p>
