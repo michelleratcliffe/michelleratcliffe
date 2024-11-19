@@ -8,6 +8,30 @@ Here you'll find my personal coding projects as I build & develop my skills. I a
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,ae,apple,css,react, discord, figma" />
+    <img src="https://skillicons.dev/icons?i=github,ae,apple,css,react,discord,figma,html,ai,js,materialui,mysql,nextjs,nodejs,npm,ps,postgres,stackoverflow,supabase" />
+  </a>
+</p>
+
+Tech used daily
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=apple,gmail,stackoverflow,obsidian,npm,nodejs,linkedin,instagram," />
+  </a>
+</p>****
+
+
+things I would love to explore
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=robloxstudio," />
+  </a>
+</p>
+
+tech I have used in the past 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sass,bootstrap,haml,ruby,sublime,atom, " />
   </a>
 </p>
