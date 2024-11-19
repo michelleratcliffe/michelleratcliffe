@@ -8,6 +8,7 @@
 <br />
 <br />
 <p align="center">
+  <h3>Tech I love</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,css,react,discord,figma,html,js,materialui,mysql,nextjs,nodejs,npm,postgres,stackoverflow,supabase,vercel,vite&perline=9" />
   </a>
@@ -15,7 +16,7 @@
 <br />
 
 <p align="center">
-  Tech used constantly
+  <h3>Tech used constantly</h3>
   <br /> <br />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=apple,gmail,stackoverflow,obsidian,npm,nodejs,linkedin,instagram,tailwind,css,js,html,react,twitter,vscode,codepen&perline=8" />
@@ -24,7 +25,7 @@
 <br />
 
 <p align="center">
-  Design Packages I have used
+ <h3> Design Packages I have used</h3>
   <br /> <br />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,ps,xd,figma,ai" />
@@ -33,7 +34,7 @@
 
 
 <p align="center">
-  Used in the past:
+  <h3>Used in the past:</h3>
   <br /> <br />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=sass,bootstrap,jquery,heroku,ember,ruby,sublime,atom,windows,wordpress,angular,atom,bitbucket&perline=7" />
@@ -43,7 +44,7 @@
 
 
 <p align="center">
-  Things I would love to explore:
+ <h3>Things I would love to explore:</h3> 
   <br /> <br />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=robloxstudio," />
