@@ -33,13 +33,6 @@
     <img src="https://skillicons.dev/icons?i=ae,ps,xd,ai,figma" />
   </a>
 </p>
- <h3 align="center">Used in the past:</h3>
-<p align="center">
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sass,bootstrap,jquery,heroku,ember,ruby,sublime,atom,windows,wordpress,angular,atom,bitbucket&perline=7" />
-  </a>
-</p>
 <h3 align="center">Things I would love to explore:</h3> 
 <p align="center">
   <br />
