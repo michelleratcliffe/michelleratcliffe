@@ -8,16 +8,23 @@ Here you'll find my personal coding projects as I build & develop my skills. I a
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,ae,apple,css,react,discord,figma,html,ai,js,materialui,mysql,nextjs,nodejs,npm,ps,postgres,stackoverflow,supabase" />
+    <img src="https://skillicons.dev/icons?i=github,ae,apple,css,react,discord,figma,html,ai,js,materialui,mysql,nextjs,nodejs,npm,ps,postgres,stackoverflow,supabase,vercel,vite" />
   </a>
 </p>
 
-Tech used daily
+Tech used constantly
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,gmail,stackoverflow,obsidian,npm,nodejs,linkedin,instagram," />
+    <img src="https://skillicons.dev/icons?i=apple,gmail,stackoverflow,obsidian,npm,nodejs,linkedin,instagram,tailwind,css,js,html,react,twitter,vscode,codepen" />
   </a>
-</p>****
+</p>
+
+DESIGN
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,ps,xd,figma,ai" />
+  </a>
+</p>
 
 
 things I would love to explore
@@ -32,6 +39,6 @@ tech I have used in the past
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sass,bootstrap,haml,ruby,sublime,atom, " />
+    <img src="https://skillicons.dev/icons?i=sass,bootstrap,haml,ruby,sublime,atom,windows,wordpress,angular,atom,bitbucket," />
   </a>
 </p>
