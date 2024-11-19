@@ -13,8 +13,9 @@ Here you'll find my personal coding projects as I build & develop my skills. I a
   </a>
 </p>
 <br />
-Tech used constantly<br />
+
 <p align="center">
+  Tech used constantly<br />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=apple,gmail,stackoverflow,obsidian,npm,nodejs,linkedin,instagram,tailwind,css,js,html,react,twitter,vscode,codepen" />
   </a>
