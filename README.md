@@ -9,7 +9,7 @@ Here you'll find my personal coding projects as I build & develop my skills. I a
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,ae,apple,css,react,discord,figma,html,ai,js,materialui,mysql,nextjs,nodejs,npm,ps,postgres,stackoverflow,supabase,vercel,vite" />
+    <img src="https://skillicons.dev/icons?i=github,ae,apple,css,react,discord,figma,html,ai,js,materialui,mysql,nextjs,nodejs,npm,ps,postgres,stackoverflow,supabase,vercel,vite&perline=11" />
   </a>
 </p>
 <br />
