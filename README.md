@@ -37,6 +37,7 @@
 <p align="center">
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=robloxstudio," />
+    <img src="https://skillicons.dev/icons?i=robloxstudio" />
   </a>
 </p>
+<br />
